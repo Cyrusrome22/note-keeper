@@ -7,7 +7,7 @@ export default [
     pinned: true,
     archived: true,
     bgColor: '#f3f3f3',
-    active: false
+    active: true
   },
   {
     id: 'c0f3411e-b09b-40c8-8bf2-9d17b27d0f9e',
